@@ -1,0 +1,77 @@
+body{
+    background-image: url(images/image-2.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.bg-cafe1{
+    background-color:#978356;
+}
+
+.opacity-50{
+    opacity: .5;
+}
+
+.bg-quotation{
+    background-image: url(images/bg-pattern-quotation.png);
+    background-repeat: no-repeat;
+    background-position: 80% 0;
+    background-size: 135px;
+}
+
+.rounded-xlg{
+    border-radius: .5rem;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+p{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.bg-cafe2{
+    background:#5c5224;
+}
+
+.card-dos{
+    font-size: 18px;
+}
+
+.card-tres{
+    font-size: 19px;
+}
+
+.card-dos-p{
+    font-size: 12px;
+}
+
+.pb-txt{
+    padding-bottom: 6px;
+}
+
+.bg-claro{
+    background: hsl(41, 31%, 70%);
+}
+
+.bg-oscuro{
+    background: #462a01;
+}
+
+.card-tres-p{
+    font-size: 13px;
+}
+
+.pb-p{
+    padding-bottom: 14px;
+}
+
+.mt-t{
+    padding-top: 8%;
+}
+
